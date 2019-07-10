@@ -1,0 +1,15 @@
+## Interface: 20400
+## Title: Mint
+## Author: Michael Nguyen
+## Version: 2.0
+## SavedVariables: jsonData
+## Notes: Extracts auction data
+
+Core\Constants.lua
+Util\Json.lua
+Util\Ui.lua
+Util\ActionQueue.lua
+Core\CoreSupport.lua
+Core\CoreMain.lua
+Core\WoWApiAdapter.lua
+run.lua

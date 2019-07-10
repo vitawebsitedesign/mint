@@ -1,0 +1,1 @@
+AuctionDataExtractor.Core.Main.Init();
